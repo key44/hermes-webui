@@ -1,0 +1,10 @@
+.hermes-openui-preview{margin:12px 0;border:1px solid var(--border,#d1d5db);border-radius:10px;overflow:hidden}
+.hermes-openui-header{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:7px 12px;background:var(--surface,#f8f9fa);font-size:12px}
+.hermes-openui-source-button{border:1px solid var(--border,#d1d5db);border-radius:6px;padding:4px 9px;background:transparent;color:inherit;cursor:pointer}
+.hermes-openui-source-button:focus-visible{outline:2px solid var(--accent,#587aff);outline-offset:2px}
+.hermes-openui-frame{display:block;box-sizing:border-box;width:100%;border:0;background:#fff}
+.hermes-openui-frame[hidden]{display:none!important}
+.hermes-openui-preview+pre[hidden]{display:none!important}
+.hermes-openui-note{padding:8px 12px;color:var(--muted,#777);font-size:12px}
+.hermes-openui-note:empty{display:none}
+@media(max-width:500px){.hermes-openui-header{padding:6px 8px}}

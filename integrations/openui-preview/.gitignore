@@ -1,0 +1,2 @@
+genui/vendor/*
+!genui/vendor/.gitkeep

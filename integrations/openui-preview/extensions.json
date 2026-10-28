@@ -1,0 +1,8 @@
+{
+  "extensions": [{
+    "id": "openui-preview",
+    "name": "OpenUI Chat Preview",
+    "scripts": ["genui/bridge.js"],
+    "stylesheets": ["genui/styles.css"]
+  }]
+}
